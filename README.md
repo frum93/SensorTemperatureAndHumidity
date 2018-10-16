@@ -1,3 +1,4 @@
-# Sensor Temperature And Humidity
+# NodeMCU temperature sensor
 
-Projeto de temperatura
+O objetivo deste projeto é a aquisição dos valores da temperatura e humidade
+e enviá-los para a Internet e ao mesmo tempo mosttrá-los num LCD. 
