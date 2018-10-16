@@ -7,10 +7,10 @@
 LiquidCrystal_I2C lcd(0x3F, 16, 2);
 
 //Rede
-const char* ssid     = "Janela";        // Nome da Rede
-const char* password = "abretesesamo";      // Password da rede
+const char* ssid     = "blablabla";        // Nome da Rede
+const char* password = "blablabla";      // Password da rede
 const char* host = "api.thingspeak.com";
-const char* THINGSPEAK_API_KEY = "YC4D3GIEXRCX49WS";    //Write API KEY
+const char* THINGSPEAK_API_KEY = "XXXXXXXXXXXXXXXX";    //Write API KEY
 
 //Atualização à taxa de 1 minuto, o Thingspeak necessita no minimo 20segundo
 const int UPDATE_INTERVAL_SECONDS = 60;
