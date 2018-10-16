@@ -1,4 +1,4 @@
-# Collaborizm NodeMCU Temperature Sensor Gadget
+# NodeMCU Temperature Sensor Gadget
 
 + ## Material usado   
     * NodeMCU
@@ -9,3 +9,6 @@
 	* Caixa de Plástico
 	* Botão
 	* Resistências
+
+	
+	
