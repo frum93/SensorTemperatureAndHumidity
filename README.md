@@ -1,9 +1,6 @@
 # Collaborizm NodeMCU Temperature Sensor Gadget
 
-
-## Material usado
-
-+ Material   
++ ## Material usado   
     * NodeMCU
 	* Cabo de comunicação
 	* DHT22(Sensor de temperatura e humidade)
