@@ -1,10 +1,10 @@
-# NodeMCU temperature sensor
+# Collaborizm NodeMCU Temperature Sensor Gadget
 
-O objetivo deste projeto é a aquisição dos valores da temperatura e humidade
-e enviá-los para a Internet e ao mesmo tempo mostrá-los num LCD. 
 
-##Material usado
-	*NodeMCU
+## Material usado
+
++ **NodeMCU V3** - Chinese clone   
+    *NodeMCU
 	*Cabo de comunicação
 	*DHT22(Sensor de temperatura e humidade)
 	*LCD Arduino
