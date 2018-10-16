@@ -3,7 +3,7 @@
 
 ## Material usado
 
-+    
+   
     * NodeMCU
 	* Cabo de comunicação
 	* DHT22(Sensor de temperatura e humidade)
